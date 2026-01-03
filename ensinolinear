@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Álgebra Linear | Johnny Albert</title>
+</head>
+<body>
+
+<nav>
+  <a href="../index.html">Início</a> |
+  <a href="../ensino.html">Ensino</a>
+</nav>
+
+<h1>Álgebra Linear</h1>
+
+<p><strong>Nível:</strong> Graduação</p>
+<p><strong>Curso:</strong> Matemática / Engenharia</p>
+<p><strong>Instituição:</strong> ____________________</p>
+<p><strong>Período:</strong> ____________________</p>
+
+<h2>Ementa</h2>
+<p>
+Espaços vetoriais, transformações lineares, matrizes,
+determinantes, autovalores e autovetores.
+</p>
+
+<p>
+<a href="../disciplinas.html">← Voltar para Disciplinas</a>
+</p>
+
+</body>
+</html>
